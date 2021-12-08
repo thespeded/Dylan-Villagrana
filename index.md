@@ -4,25 +4,29 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ripped effect](/sample_page)
+<img src="images/ripped1.pngraw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Marble Photo](/pdf/sample_presentation.pdf)
+<img src="images/marble.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Double Exposure](http://example.com/)
+<img src="images/doubleexp.jpg?raw=true"/>
+
+---
+[Galaxy Cat](http://example.com/)
+<img src="images/GalaxyCatz.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Ripped effect](http://example.com/)
+- [marble photo](http://example.com/)
+- [double exposure](http://example.com/)
+- [galaxy cat](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---

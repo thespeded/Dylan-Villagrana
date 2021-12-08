@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Ripped effect](/sample_page)
-<img src="images/ripped1.pngraw=true"/>
+<img src="images/ripped1.png?raw=true"/>
 
 ---
 [Marble Photo](/pdf/sample_presentation.pdf)

@@ -20,6 +20,8 @@
 <img src="images/GalaxyCatz.jpg?raw=true"/>
 
 ---
+[Earth](http://example.com/)
+<img src="images/?raw=true"/>
 
 ### Category Name 2
 

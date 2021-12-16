@@ -20,8 +20,8 @@
 <img src="images/GalaxyCatz.jpg?raw=true"/>
 
 ---
-[Earth](http://example.com/)
-<img src="images/?raw=true"/>
+[Earth Day](http://example.com/)
+<img src="images/EarthDayTHing.jpg?raw=true"/>
 
 ### Category Name 2
 
@@ -29,7 +29,7 @@
 - [marble photo](http://example.com/)
 - [double exposure](http://example.com/)
 - [galaxy cat](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Earth Day](http://example.com/)
 
 ---
 
